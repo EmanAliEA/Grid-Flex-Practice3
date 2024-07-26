@@ -277,7 +277,7 @@ nav ul {
   /* transform: scale(1.1) 1s ; */
 }
 .service div:hover {
-/*   transform: scale(1.1); */
+  transform: scale(1.1);
   border: 2px solid var(--primary);
 }
 .service .box p {
